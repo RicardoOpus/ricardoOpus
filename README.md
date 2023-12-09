@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Luis Ricardo</h1>
-<h3 align="center">Desenvolvedor de Software FullStack</h3>
+<h3 align="center">Desenvolvedor web FullStack</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
